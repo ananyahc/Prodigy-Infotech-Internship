@@ -1,4 +1,4 @@
-# Task 1: Interactive Navigation Menu
+# Task 1: Responsive Landing Page.
 
 ## Description
 
@@ -30,5 +30,5 @@ This task involves creating an interactive navigation menu that changes color or
     ```
 3. **Open `index.html` in your browser** to view the interactive navigation menu.
 
-## File Structure
+
 
